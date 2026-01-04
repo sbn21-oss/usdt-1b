@@ -1,0 +1,20 @@
+{
+  "name": "USDT-1B Display List",
+  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/usdt-1b/main/logo.png",
+  "timestamp": "2024-01-01T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "YOUR_CONTRACT_ADDRESS_HERE",
+      "symbol": "USDT-1B",
+      "name": "USDT Simulation 1B",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/usdt-1b/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
