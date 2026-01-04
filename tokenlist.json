@@ -1,6 +1,6 @@
 {
-  "name": "USDT-1B V2",  // CHANGE VERSION
-  "logoURI": "https://raw.githubusercontent.com/sbn21-oss/usdt-1b/main/logo-v2.png",
+  "name": "USDT-1B V2", 
+  "logoURI": "https://ipfs.io/ipns/k51qzi5uqu5dinqqxqr33hbdh10qv7w4q5wcok5ua008ke54rd405ijtxm2jua",
   "tokens": [{
     "chainId": 1,
     "address": "0xba11578fA7D9967c26E523996afcbb9Ecb4B03bA",
