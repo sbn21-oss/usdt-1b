@@ -1,20 +1,10 @@
 {
-  "name": "USDT-1B Display List",
-  "logoURI": "https://raw.githubusercontent.com/sbn21-oss/usdt-1b/main/logo.png",
-  "timestamp": "2024-01-01T00:00:00Z",
-  "tokens": [
-    {
-      "chainId": 1,
-      "address": "0xba11578fA7D9967c26E523996afcbb9Ecb4B03bA",
-      "symbol": "USDT",
-      "name": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sbn21-oss/usdt-1b/main/logo.png"
-    }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  "name": "USDT-1B V2",  // CHANGE VERSION
+  "logoURI": "https://raw.githubusercontent.com/sbn21-oss/usdt-1b/main/logo-v2.png",
+  "tokens": [{
+    "chainId": 1,
+    "address": "0xba11578fA7D9967c26E523996afcbb9Ecb4B03bA",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/sbn21-1b/usdt-1b/main/logo-v2.png"
+  }]
 }
