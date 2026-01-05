@@ -1,10 +1,12 @@
 {
-  "name": "USDT-1B V2", 
-  "logoURI": "https://ipfs.io/ipns/k51qzi5uqu5dinqqxqr33hbdh10qv7w4q5wcok5ua008ke54rd405ijtxm2jua",
-  "tokens": [{
-    "chainId": 1,
-    "address": "0xefaE082bf4A1c311f6d17a6FE97b0C614571a3f9",
-    "symbol": "USDT",
-    "logoURI": "https://ipfs.io/ipns/k51qzi5uqu5dinqqxqr33hbdh10qv7w4q5wcok5ua008ke54rd405ijtxm2jua"
-  }]
+  "name": "USDT-1B", 
+   "tokens": [
+     {
+        "chainId": 1,
+        "address": "0xAdb1BC6f4D8EabfB953813566443932104Da6D22",
+        "symbol": "USDT",
+        "decimals": 6
+        "logoURI": "https://ipfs.io/ipns/k51qzi5uqu5dinqqxqr33hbdh10qv7w4q5wcok5ua008ke54rd405ijtxm2jua"
+    
+     }]
 }
